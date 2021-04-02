@@ -1,1 +1,4 @@
-i code.
+
+  fn main() {
+      println!("Hello World!");
+  }
