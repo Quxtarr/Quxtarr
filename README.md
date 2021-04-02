@@ -1,7 +1,1 @@
-fn main() {
-
-
-    println!("i code.");
-
-
-}
+i code.
