@@ -1,1 +1,3 @@
-i code.
+fn main() {
+    println!("i code.");
+}
